@@ -1,0 +1,12 @@
+PM25 eval training accuracy: 99.39643004249196
+PM25 eval test accuracy: 89.00176390064995
+PM10 eval training accuracy: 99.19763866615793
+PM10 eval test accuracy: 90.83114562419782
+CO eval training accuracy: 99.47618031024287
+CO eval test accuracy: 91.56071244196858
+NO2 eval training accuracy: 99.27438107632855
+NO2 eval test accuracy: 89.43957304497837
+SO2 eval training accuracy: 98.70853436499893
+SO2 eval test accuracy: 71.10813818051994
+O3 eval training accuracy: 99.42234427227996
+O3 eval test accuracy: 89.00975797319882

@@ -1,0 +1,2 @@
+PM25 eval training accuracy: 99.7999090739661
+PM25 eval test accuracy: 90.10498662810303
